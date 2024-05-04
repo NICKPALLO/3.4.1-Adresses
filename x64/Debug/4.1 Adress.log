@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Projects C++\4.1 Adress\4.1 Adress\main.cpp(74,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects C++\4.1 Adress\4.1 Adress\main.cpp(91,19): warning C4018: <: несоответствие типов со знаком и без знака
+  4.1 Adress.vcxproj -> D:\Projects C++\4.1 Adress\x64\Debug\4.1 Adress.exe
